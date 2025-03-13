@@ -1,0 +1,56 @@
+[
+    {
+        "Prefecture": "Conakry",
+        "Date": "2014-08-01",
+        "Cas": 10,
+        "Deces": 5
+    },
+    {
+        "Prefecture": "Conakry",
+        "Date": "2014-08-15",
+        "Cas": 15,
+        "Deces": 8
+    },
+    {
+        "Prefecture": "Conakry",
+        "Date": "2014-09-01",
+        "Cas": 22,
+        "Deces": 12
+    },
+    {
+        "Prefecture": "Boke",
+        "Date": "2014-08-01",
+        "Cas": 3,
+        "Deces": 1
+    },
+    {
+        "Prefecture": "Boke",
+        "Date": " 2014-08-15",
+        "Cas": 5,
+        "Deces": 2
+    },
+    {
+        "Prefecture": "Boke",
+        "Date": "2014-09-01",
+        "Cas": 8,
+        "Deces": 4
+    },
+    {
+        "Prefecture": "Kindia",
+        "Date": "2014-08-01",
+        "Cas": 5,
+        "Deces": 2
+    },
+    {
+        "Prefecture": "Kindia",
+        "Date": "2014-08-15",
+        "Cas": 8,
+        "Deces": 3
+    },
+    {
+        "Prefecture": "Kindia",
+        "Date": "2014-09-01",
+        "Cas": 12,
+        "Deces": 6
+    }
+]
